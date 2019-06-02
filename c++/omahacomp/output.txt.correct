@@ -1,0 +1,39 @@
+HandA:Ac-Kd-Jd-3d HandB:5c-5d-6c-7d Board:Ah-Kh-5s-2s-Qd
+=> HandB wins Hi (3-of-a-Kind); HandB wins Lo (7652A)
+
+HandA:Ac-Kd-Jd-3d HandB:5c-5d-6c-6d Board:Ad-Kh-5s-2d-Qd
+=> HandA wins Hi (Flush); No hand qualified for Low
+
+HandA:Qc-Jd-Td-3d HandB:Tc-Jc-8h-6d Board:Ad-Kh-Qs-2d-3c
+=> Split Pot Hi (Straight); HandB wins Lo (8632A)
+
+HandA:Qh-4d-Tc-8s HandB:Qc-8c-7d-2h Board:Ad-As-3c-3d-5d
+=> HandA wins Hi (One Pair); HandB wins Lo (7532A)
+
+HandA:Ah-2s-Qd-9S HandB:Ac-2d-6s-Jh Board:Kd-4h-Kh-5s-3c
+=> HandB wins Hi (Straight); Split Pot Lo (5432A)
+
+HandA:Ah-2s-Qd-9S HandB:Ac-2d-As-Jh Board:Kd-4h-Kh-5s-3c
+=> Split Pot Hi (Straight); Split Pot Lo (5432A)
+
+HandA:6d-6c-Kc-4d HandB:Jh-Js-Qs-8h Board:2s-3h-9c-As-Ac
+=> HandB wins Hi (Two Pair); HandA wins Lo (6432A)
+
+HandA:6d-Kh-Ac-4d HandB:Jh-2s-Ah-8h Board:Js-3h-9c-As-6c
+=> HandB wins Hi (Two Pair); HandB wins Lo (8632A)
+
+HandA:Qc-Jd-Td-3d HandB:3s-3h-8h-6d Board:Ad-Kh-Qs-Qd-3c
+=> HandA wins Hi (Full House); No hand qualified for Low
+
+HandA:Qc-Jc-Tc-3d HandB:Tc-Jc-8h-6d Board:Ac-Kc-Qc-2d-3c
+=> Split Pot Hi (Straight Flush); HandB wins Lo (8632A)
+
+HandA:As-2s-Qd-9S HandB:Ac-2s-6s-Jh Board:Kd-4s-Kh-5s-3s
+=> HandB wins Hi (Straight Flush); Split Pot Lo (5432A)
+
+HandA:2s-5c-7d-9S HandB:2c-5c-6s-Jh Board:3d-As-8h-Qs-Ts
+=> HandA wins Hi (Flush); Split Pot Lo (8532A)
+
+HandA:Ah-2s-Kh-Ks HandB:As-3s-Qh-Qd Board:4h-5c-7h-Qs-Ad
+=> HandB wins Hi (3-of-a-Kind); HandA wins Lo (7542A)
+

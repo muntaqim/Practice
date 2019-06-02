@@ -1,0 +1,731 @@
+rm -f *.o omahacomp
+g++ -static-libstdc++ -static-libgcc -c omahacomp.cpp
+g++ -static-libstdc++ -static-libgcc -o omahacomp omahacomp.o
+14c 13c 12c 12c 11c 
+RANK IS 2
+14c 13c 12c 12c 11c 
+RANK IS 2
+14c 13c 12c 12c 11c 
+RANK IS 2
+14c 13c 12c 11c 2d 
+RANK IS 1
+14c 13c 12c 11c 2d 
+RANK IS 1
+14c 13c 12c 11c 3c 
+RANK IS 6
+14c 13c 12c 11c 3c 
+RANK IS 6
+14c 13c 12c 11c 3c 
+RANK IS 6
+14c 12c 12c 11c 2d 
+RANK IS 2
+14c 12c 12c 11c 2d 
+RANK IS 2
+14c 12c 12c 11c 3c 
+RANK IS 2
+14c 12c 12c 11c 3c 
+RANK IS 2
+14c 12c 11c 3c 2d 
+RANK IS 1
+14c 12c 11c 3c 2d 
+RANK IS 1
+13c 12c 12c 11c 2d 
+RANK IS 2
+13c 12c 12c 11c 2d 
+RANK IS 2
+13c 12c 12c 11c 3c 
+RANK IS 2
+13c 12c 12c 11c 3c 
+RANK IS 2
+13c 12c 11c 3c 2d 
+RANK IS 1
+13c 12c 11c 3c 2d 
+RANK IS 1
+12c 12c 11c 3c 2d 
+RANK IS 2
+12c 12c 11c 3c 2d 
+RANK IS 2
+14c 13c 12c 12c 10c 
+RANK IS 2
+14c 13c 12c 12c 10c 
+RANK IS 2
+14c 13c 12c 10c 2d 
+RANK IS 1
+14c 13c 12c 10c 2d 
+RANK IS 1
+14c 13c 12c 10c 3c 
+RANK IS 6
+14c 13c 12c 10c 3c 
+RANK IS 6
+14c 12c 12c 10c 2d 
+RANK IS 2
+14c 12c 12c 10c 2d 
+RANK IS 2
+14c 12c 12c 10c 3c 
+RANK IS 2
+14c 12c 12c 10c 3c 
+RANK IS 2
+14c 12c 10c 3c 2d 
+RANK IS 1
+14c 12c 10c 3c 2d 
+RANK IS 1
+13c 12c 12c 10c 2d 
+RANK IS 2
+13c 12c 12c 10c 2d 
+RANK IS 2
+13c 12c 12c 10c 3c 
+RANK IS 2
+13c 12c 12c 10c 3c 
+RANK IS 2
+13c 12c 10c 3c 2d 
+RANK IS 1
+13c 12c 10c 3c 2d 
+RANK IS 1
+12c 12c 10c 3c 2d 
+RANK IS 2
+12c 12c 10c 3c 2d 
+RANK IS 2
+14c 13c 12c 12c 3d 
+RANK IS 2
+14c 13c 12c 12c 3d 
+RANK IS 2
+14c 13c 12c 3d 2d 
+RANK IS 1
+14c 13c 12c 3d 2d 
+RANK IS 1
+14c 13c 12c 3d 3c 
+RANK IS 2
+14c 13c 12c 3d 3c 
+RANK IS 2
+14c 12c 12c 3d 2d 
+RANK IS 2
+14c 12c 12c 3d 2d 
+RANK IS 2
+14c 12c 12c 3d 3c 
+RANK IS 3
+14c 12c 12c 3d 3c 
+RANK IS 3
+14c 12c 3d 3c 2d 
+RANK IS 2
+14c 12c 3d 3c 2d 
+RANK IS 2
+13c 12c 12c 3d 2d 
+RANK IS 2
+13c 12c 12c 3d 2d 
+RANK IS 2
+13c 12c 12c 3d 3c 
+RANK IS 3
+13c 12c 12c 3d 3c 
+RANK IS 3
+13c 12c 3d 3c 2d 
+RANK IS 2
+13c 12c 3d 3c 2d 
+RANK IS 2
+12c 12c 3d 3c 2d 
+RANK IS 3
+12c 12c 3d 3c 2d 
+RANK IS 3
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 11c 10c 3c 2d 
+RANK IS 1
+14c 11c 10c 3c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 11c 10c 3c 2d 
+RANK IS 1
+13c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 3d 
+RANK IS 1
+14c 13c 12c 11c 3d 
+RANK IS 1
+14c 13c 11c 3d 2d 
+RANK IS 1
+14c 13c 11c 3d 2d 
+RANK IS 1
+14c 13c 11c 3d 3c 
+RANK IS 2
+14c 13c 11c 3d 3c 
+RANK IS 2
+14c 12c 11c 3d 2d 
+RANK IS 1
+14c 12c 11c 3d 2d 
+RANK IS 1
+14c 12c 11c 3d 3c 
+RANK IS 2
+14c 12c 11c 3d 3c 
+RANK IS 2
+14c 11c 3d 3c 2d 
+RANK IS 2
+14c 11c 3d 3c 2d 
+RANK IS 2
+13c 12c 11c 3d 2d 
+RANK IS 1
+13c 12c 11c 3d 2d 
+RANK IS 1
+13c 12c 11c 3d 3c 
+RANK IS 2
+13c 12c 11c 3d 3c 
+RANK IS 2
+13c 11c 3d 3c 2d 
+RANK IS 2
+13c 11c 3d 3c 2d 
+RANK IS 2
+12c 11c 3d 3c 2d 
+RANK IS 2
+12c 11c 3d 3c 2d 
+RANK IS 2
+14c 13c 12c 10c 3d 
+RANK IS 1
+14c 13c 12c 10c 3d 
+RANK IS 1
+14c 13c 10c 3d 2d 
+RANK IS 1
+14c 13c 10c 3d 2d 
+RANK IS 1
+14c 13c 10c 3d 3c 
+RANK IS 2
+14c 13c 10c 3d 3c 
+RANK IS 2
+14c 12c 10c 3d 2d 
+RANK IS 1
+14c 12c 10c 3d 2d 
+RANK IS 1
+14c 12c 10c 3d 3c 
+RANK IS 2
+14c 12c 10c 3d 3c 
+RANK IS 2
+14c 10c 3d 3c 2d 
+RANK IS 2
+14c 10c 3d 3c 2d 
+RANK IS 2
+13c 12c 10c 3d 2d 
+RANK IS 1
+13c 12c 10c 3d 2d 
+RANK IS 1
+13c 12c 10c 3d 3c 
+RANK IS 2
+13c 12c 10c 3d 3c 
+RANK IS 2
+13c 10c 3d 3c 2d 
+RANK IS 2
+13c 10c 3d 3c 2d 
+RANK IS 2
+12c 10c 3d 3c 2d 
+RANK IS 2
+12c 10c 3d 3c 2d 
+RANK IS 2
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 11c 10c 3c 2d 
+RANK IS 1
+14c 11c 10c 3c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 11c 10c 3c 2d 
+RANK IS 1
+13c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+14c 13c 12c 10c 8h 
+RANK IS 1
+14c 13c 12c 10c 8h 
+RANK IS 1
+14c 13c 10c 8h 2d 
+RANK IS 1
+14c 13c 10c 8h 2d 
+RANK IS 1
+14c 13c 10c 8h 3c 
+RANK IS 1
+14c 13c 10c 8h 3c 
+RANK IS 1
+14c 12c 10c 8h 2d 
+RANK IS 1
+14c 12c 10c 8h 2d 
+RANK IS 1
+14c 12c 10c 8h 3c 
+RANK IS 1
+14c 12c 10c 8h 3c 
+RANK IS 1
+14c 10c 8h 3c 2d 
+RANK IS 1
+14c 10c 8h 3c 2d 
+RANK IS 1
+13c 12c 10c 8h 2d 
+RANK IS 1
+13c 12c 10c 8h 2d 
+RANK IS 1
+13c 12c 10c 8h 3c 
+RANK IS 1
+13c 12c 10c 8h 3c 
+RANK IS 1
+13c 10c 8h 3c 2d 
+RANK IS 1
+13c 10c 8h 3c 2d 
+RANK IS 1
+12c 10c 8h 3c 2d 
+RANK IS 1
+12c 10c 8h 3c 2d 
+RANK IS 1
+14c 13c 12c 10c 6d 
+RANK IS 1
+14c 13c 12c 10c 6d 
+RANK IS 1
+14c 13c 10c 6d 2d 
+RANK IS 1
+14c 13c 10c 6d 2d 
+RANK IS 1
+14c 13c 10c 6d 3c 
+RANK IS 1
+14c 13c 10c 6d 3c 
+RANK IS 1
+14c 12c 10c 6d 2d 
+RANK IS 1
+14c 12c 10c 6d 2d 
+RANK IS 1
+14c 12c 10c 6d 3c 
+RANK IS 1
+14c 12c 10c 6d 3c 
+RANK IS 1
+14c 10c 6d 3c 2d 
+RANK IS 1
+14c 10c 6d 3c 2d 
+RANK IS 1
+13c 12c 10c 6d 2d 
+RANK IS 1
+13c 12c 10c 6d 2d 
+RANK IS 1
+13c 12c 10c 6d 3c 
+RANK IS 1
+13c 12c 10c 6d 3c 
+RANK IS 1
+13c 10c 6d 3c 2d 
+RANK IS 1
+13c 10c 6d 3c 2d 
+RANK IS 1
+12c 10c 6d 3c 2d 
+RANK IS 1
+12c 10c 6d 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 8h 
+RANK IS 1
+14c 13c 12c 11c 8h 
+RANK IS 1
+14c 13c 11c 8h 2d 
+RANK IS 1
+14c 13c 11c 8h 2d 
+RANK IS 1
+14c 13c 11c 8h 3c 
+RANK IS 1
+14c 13c 11c 8h 3c 
+RANK IS 1
+14c 12c 11c 8h 2d 
+RANK IS 1
+14c 12c 11c 8h 2d 
+RANK IS 1
+14c 12c 11c 8h 3c 
+RANK IS 1
+14c 12c 11c 8h 3c 
+RANK IS 1
+14c 11c 8h 3c 2d 
+RANK IS 1
+14c 11c 8h 3c 2d 
+RANK IS 1
+13c 12c 11c 8h 2d 
+RANK IS 1
+13c 12c 11c 8h 2d 
+RANK IS 1
+13c 12c 11c 8h 3c 
+RANK IS 1
+13c 12c 11c 8h 3c 
+RANK IS 1
+13c 11c 8h 3c 2d 
+RANK IS 1
+13c 11c 8h 3c 2d 
+RANK IS 1
+12c 11c 8h 3c 2d 
+RANK IS 1
+12c 11c 8h 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 6d 
+RANK IS 1
+14c 13c 12c 11c 6d 
+RANK IS 1
+14c 13c 11c 6d 2d 
+RANK IS 1
+14c 13c 11c 6d 2d 
+RANK IS 1
+14c 13c 11c 6d 3c 
+RANK IS 1
+14c 13c 11c 6d 3c 
+RANK IS 1
+14c 12c 11c 6d 2d 
+RANK IS 1
+14c 12c 11c 6d 2d 
+RANK IS 1
+14c 12c 11c 6d 3c 
+RANK IS 1
+14c 12c 11c 6d 3c 
+RANK IS 1
+14c 11c 6d 3c 2d 
+RANK IS 1
+14c 11c 6d 3c 2d 
+RANK IS 1
+13c 12c 11c 6d 2d 
+RANK IS 1
+13c 12c 11c 6d 2d 
+RANK IS 1
+13c 12c 11c 6d 3c 
+RANK IS 1
+13c 12c 11c 6d 3c 
+RANK IS 1
+13c 11c 6d 3c 2d 
+RANK IS 1
+13c 11c 6d 3c 2d 
+RANK IS 1
+12c 11c 6d 3c 2d 
+RANK IS 1
+12c 11c 6d 3c 2d 
+RANK IS 1
+14c 13c 12c 8h 6d 
+RANK IS 1
+14c 13c 12c 8h 6d 
+RANK IS 1
+14c 13c 8h 6d 2d 
+RANK IS 1
+14c 13c 8h 6d 2d 
+RANK IS 1
+14c 13c 8h 6d 3c 
+RANK IS 1
+14c 13c 8h 6d 3c 
+RANK IS 1
+14c 12c 8h 6d 2d 
+RANK IS 1
+14c 12c 8h 6d 2d 
+RANK IS 1
+14c 12c 8h 6d 3c 
+RANK IS 1
+14c 12c 8h 6d 3c 
+RANK IS 1
+14c 8h 6d 3c 2d 
+RANK IS 1
+14c 8h 6d 3c 2d 
+RANK IS 1
+13c 12c 8h 6d 2d 
+RANK IS 1
+13c 12c 8h 6d 2d 
+RANK IS 1
+13c 12c 8h 6d 3c 
+RANK IS 1
+13c 12c 8h 6d 3c 
+RANK IS 1
+13c 8h 6d 3c 2d 
+RANK IS 1
+13c 8h 6d 3c 2d 
+RANK IS 1
+12c 8h 6d 3c 2d 
+RANK IS 1
+12c 8h 6d 3c 2d 
+RANK IS 1
+14c 13c 12c 12c 11c 
+RANK IS 2
+14c 13c 12c 11c 2d 
+RANK IS 1
+14c 13c 12c 11c 3c 
+RANK IS 6
+14c 12c 12c 11c 2d 
+RANK IS 2
+14c 12c 12c 11c 3c 
+RANK IS 2
+14c 12c 11c 3c 2d 
+RANK IS 1
+13c 12c 12c 11c 2d 
+RANK IS 2
+13c 12c 12c 11c 3c 
+RANK IS 2
+13c 12c 11c 3c 2d 
+RANK IS 1
+12c 12c 11c 3c 2d 
+RANK IS 2
+14c 13c 12c 12c 10c 
+RANK IS 2
+14c 13c 12c 10c 2d 
+RANK IS 1
+14c 13c 12c 10c 3c 
+RANK IS 6
+14c 12c 12c 10c 2d 
+RANK IS 2
+14c 12c 12c 10c 3c 
+RANK IS 2
+14c 12c 10c 3c 2d 
+RANK IS 1
+13c 12c 12c 10c 2d 
+RANK IS 2
+13c 12c 12c 10c 3c 
+RANK IS 2
+13c 12c 10c 3c 2d 
+RANK IS 1
+12c 12c 10c 3c 2d 
+RANK IS 2
+14c 13c 12c 12c 3d 
+RANK IS 2
+14c 13c 12c 3d 2d 
+RANK IS 1
+14c 13c 12c 3d 3c 
+RANK IS 2
+14c 12c 12c 3d 2d 
+RANK IS 2
+14c 12c 12c 3d 3c 
+RANK IS 3
+14c 12c 3d 3c 2d 
+RANK IS 2
+13c 12c 12c 3d 2d 
+RANK IS 2
+13c 12c 12c 3d 3c 
+RANK IS 3
+13c 12c 3d 3c 2d 
+RANK IS 2
+12c 12c 3d 3c 2d 
+RANK IS 3
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 11c 10c 3c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 3d 
+RANK IS 1
+14c 13c 11c 3d 2d 
+RANK IS 1
+14c 13c 11c 3d 3c 
+RANK IS 2
+14c 12c 11c 3d 2d 
+RANK IS 1
+14c 12c 11c 3d 3c 
+RANK IS 2
+14c 11c 3d 3c 2d 
+RANK IS 2
+13c 12c 11c 3d 2d 
+RANK IS 1
+13c 12c 11c 3d 3c 
+RANK IS 2
+13c 11c 3d 3c 2d 
+RANK IS 2
+12c 11c 3d 3c 2d 
+RANK IS 2
+14c 13c 12c 10c 3d 
+RANK IS 1
+14c 13c 10c 3d 2d 
+RANK IS 1
+14c 13c 10c 3d 3c 
+RANK IS 2
+14c 12c 10c 3d 2d 
+RANK IS 1
+14c 12c 10c 3d 3c 
+RANK IS 2
+14c 10c 3d 3c 2d 
+RANK IS 2
+13c 12c 10c 3d 2d 
+RANK IS 1
+13c 12c 10c 3d 3c 
+RANK IS 2
+13c 10c 3d 3c 2d 
+RANK IS 2
+12c 10c 3d 3c 2d 
+RANK IS 2
+14c 13c 12c 11c 10c 
+RANK IS 9
+14c 13c 11c 10c 2d 
+RANK IS 1
+14c 13c 11c 10c 3c 
+RANK IS 6
+14c 12c 11c 10c 2d 
+RANK IS 1
+14c 12c 11c 10c 3c 
+RANK IS 6
+14c 11c 10c 3c 2d 
+RANK IS 1
+13c 12c 11c 10c 2d 
+RANK IS 1
+13c 12c 11c 10c 3c 
+RANK IS 6
+13c 11c 10c 3c 2d 
+RANK IS 1
+12c 11c 10c 3c 2d 
+RANK IS 1
+14c 13c 12c 10c 8h 
+RANK IS 1
+14c 13c 10c 8h 2d 
+RANK IS 1
+14c 13c 10c 8h 3c 
+RANK IS 1
+14c 12c 10c 8h 2d 
+RANK IS 1
+14c 12c 10c 8h 3c 
+RANK IS 1
+14c 10c 8h 3c 2d 
+RANK IS 1
+13c 12c 10c 8h 2d 
+RANK IS 1
+13c 12c 10c 8h 3c 
+RANK IS 1
+13c 10c 8h 3c 2d 
+RANK IS 1
+12c 10c 8h 3c 2d 
+RANK IS 1
+14c 13c 12c 10c 6d 
+RANK IS 1
+14c 13c 10c 6d 2d 
+RANK IS 1
+14c 13c 10c 6d 3c 
+RANK IS 1
+14c 12c 10c 6d 2d 
+RANK IS 1
+14c 12c 10c 6d 3c 
+RANK IS 1
+14c 10c 6d 3c 2d 
+RANK IS 1
+13c 12c 10c 6d 2d 
+RANK IS 1
+13c 12c 10c 6d 3c 
+RANK IS 1
+13c 10c 6d 3c 2d 
+RANK IS 1
+12c 10c 6d 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 8h 
+RANK IS 1
+14c 13c 11c 8h 2d 
+RANK IS 1
+14c 13c 11c 8h 3c 
+RANK IS 1
+14c 12c 11c 8h 2d 
+RANK IS 1
+14c 12c 11c 8h 3c 
+RANK IS 1
+14c 11c 8h 3c 2d 
+RANK IS 1
+13c 12c 11c 8h 2d 
+RANK IS 1
+13c 12c 11c 8h 3c 
+RANK IS 1
+13c 11c 8h 3c 2d 
+RANK IS 1
+12c 11c 8h 3c 2d 
+RANK IS 1
+14c 13c 12c 11c 6d 
+RANK IS 1
+14c 13c 11c 6d 2d 
+RANK IS 1
+14c 13c 11c 6d 3c 
+RANK IS 1
+14c 12c 11c 6d 2d 
+RANK IS 1
+14c 12c 11c 6d 3c 
+RANK IS 1
+14c 11c 6d 3c 2d 
+RANK IS 1
+13c 12c 11c 6d 2d 
+RANK IS 1
+13c 12c 11c 6d 3c 
+RANK IS 1
+13c 11c 6d 3c 2d 
+RANK IS 1
+12c 11c 6d 3c 2d 
+RANK IS 1
+14c 13c 12c 8h 6d 
+RANK IS 1
+14c 13c 8h 6d 2d 
+RANK IS 1
+14c 13c 8h 6d 3c 
+RANK IS 1
+14c 12c 8h 6d 2d 
+RANK IS 1
+14c 12c 8h 6d 3c 
+RANK IS 1
+14c 8h 6d 3c 2d 
+RANK IS 1
+13c 12c 8h 6d 2d 
+RANK IS 1
+13c 12c 8h 6d 3c 
+RANK IS 1
+13c 8h 6d 3c 2d 
+RANK IS 1
+12c 8h 6d 3c 2d 
+RANK IS 1
